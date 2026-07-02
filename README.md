@@ -48,7 +48,8 @@ The recommended workflow is:
 
 1. Read the relevant lecture notes in the Lectures folder  
 2. Attempt the corresponding problem in the workbook  
-3. Use the MATLAB script in Matlab_code for implementation and verification  
+3. Use the MATLAB script in Matlab_code for implementation and verification
+4. The textbook provides the mathematical background and a walkthrough the MATLAB codes.   
 
 ---
 
