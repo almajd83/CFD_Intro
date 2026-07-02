@@ -18,7 +18,10 @@ CFD-MATLAB-Intro-to-Navier-Stokes/
   Problem set used throughout the course  
 
 - Matlab_code/  
-  MATLAB implementations corresponding to each workbook problem  
+  MATLAB implementations corresponding to each workbook problem
+
+- Textbook/
+  This textbook forms the core of the course, providing theoretical interpretations and MATLAB implementations of numerical methods for partial differential equations and Computational Fluid Dynamics.
 
 ---
 
